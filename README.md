@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👩‍💻 Lizza Mendez
 
 Perfil junior em tecnologia, com foco em desenvolvimento web e fundamentos de programação em Java e QA.  
