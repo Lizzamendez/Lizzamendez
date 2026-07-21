@@ -59,15 +59,6 @@ Apaixonada por lógica de programação, desenvolvimento de software e análise 
 * **Desenvolvimento Front-End** – Ada Tech
 * **Responsive Web Design** – FreeCodeCamp (300h)
 * **Fluência em IA Generativa & Engenharia de Prompt** – Microsoft / DIO
-* **DIO Campus Expert** – Embaixadora Universitária (Turma 16)
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lizzamendez&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-</p>
 
 ---
 
