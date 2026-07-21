@@ -1,4 +1,4 @@
-# Olá! Sou a Lizza Méndez Leguizamón 👋
+# Olá! Sou a Lizza Méndez 👋
 
 **Estudante de Ciência e Tecnologia (UFABC)** | **Consultora de TI & Desenvolvedora em Formação**
 
