@@ -8,10 +8,10 @@ Apaixonada por lógica de programação, desenvolvimento de software e análise 
 
 ### 🚀 Sobre mim
 
-* 🎓 Graduanda em **Bacharelado em Ciência e Tecnologia (BC&T)** na **UFABC** e cursando **Técnico em Administração**[span_0](start_span)[span_0](end_span).
-* 💡 Formação técnica em **Informática** e consultoria intensiva em TI pela **Specialisterne Brasil** (QA, Tratamento de Dados, Analytics e Scrum)[span_1](start_span)[span_1](end_span).
-* 💼 Experiência em suporte técnico, gestão administrativa, automações com IA e desenvolvimento web[span_2](start_span)[span_2](end_span).
-* 🌐 Idiomas: Espanhol (Nativo), Português (Avançado C1), Inglês (Básico)[span_3](start_span)[span_3](end_span).
+* 🎓 Graduanda em **Bacharelado em Ciência e Tecnologia (BC&T)** na **UFABC** e cursando **Técnico em Administração**.
+* 💡 Formação técnica em **Informática** e consultoria intensiva em TI pela **Specialisterne Brasil** (QA, Tratamento de Dados, Analytics e Scrum).
+* 💼 Experiência em suporte técnico, gestão administrativa, automações com IA e desenvolvimento web.
+* 🌐 Idiomas: Espanhol (Nativo), Português (Avançado C1), Inglês (Básico).
 
 ---
 
@@ -52,26 +52,26 @@ Apaixonada por lógica de programação, desenvolvimento de software e análise 
 
 ### 📚 Cursos e Especializações em Destaque
 
-* **Especialização .NET** – Microsoft / Coursera *(em andamento)*[span_4](start_span)[span_4](end_span)
-* **Suporte Técnico de TI** – Google / Coursera (150h)[span_5](start_span)[span_5](end_span)
-* **Protagonize Tech / Full Stack** (Lógica, Front-End, SQL, C#, .NET, IA, n8n) – Avanade + Impacta[span_6](start_span)[span_6](end_span)
-* **Analista de Dados** (Python, SQL, Data Science e Eng. de Dados) – Awari[span_7](start_span)[span_7](end_span)
-* **Desenvolvimento Front-End** – Ada Tech[span_8](start_span)[span_8](end_span)
-* **Responsive Web Design** – FreeCodeCamp (300h)[span_9](start_span)[span_9](end_span)
-* **Fluência em IA Generativa & Engenharia de Prompt** – Microsoft / DIO[span_10](start_span)[span_10](end_span)
-* **DIO Campus Expert** – Embaixadora Universitária (Turma 16)[span_11](start_span)[span_11](end_span)
+* **Especialização .NET** – Microsoft / Coursera *(em andamento)*
+* **Suporte Técnico de TI** – Google / Coursera (150h)
+* **Protagonize Tech / Full Stack** (Lógica, Front-End, SQL, C#, .NET, IA, n8n) – Avanade + Impacta
+* **Analista de Dados** (Python, SQL, Data Science e Eng. de Dados) – Awari
+* **Desenvolvimento Front-End** – Ada Tech
+* **Responsive Web Design** – FreeCodeCamp (300h)
+* **Fluência em IA Generativa & Engenharia de Prompt** – Microsoft / DIO
+* **DIO Campus Expert** – Embaixadora Universitária (Turma 16)
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lizzamendez&show_icons=true&theme=radial" alt="Estatísticas de Lizza" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lizzamendez&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
 </p>
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-* **LinkedIn:** [lizza-mendez-leguizamon](https://linkedin.com/in/lizza-mendez-leguizamon)[span_12](start_span)[span_12](end_span)
-* **Localização:** São Paulo, SP - Brasil[span_14](start_span)[span_14](end_span)
+* **LinkedIn:** [lizza-mendez-leguizamon](https://linkedin.com/in/lizza-mendez-leguizamon)
+* **Localização:** São Paulo, SP - Brasil
